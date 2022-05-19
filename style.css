@@ -1,0 +1,231 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Dokdo&family=Raleway+Dots&family=Smooch&display=swap');
+
+.vvv{
+    position: sticky;
+}
+.im1{
+    width: 490px;
+}
+.im2{
+    width: 490px;
+   
+}
+.im1:hover{
+    opacity: 0.5;
+}
+.im2:hover{
+    opacity: 0.5;
+}
+.he{
+    color: rgb(0, 0, 0);
+
+}
+.he:hover{
+    opacity: 0.6;
+    text-decoration: underline
+    
+}
+.ii1{
+width: 400px;
+height: 400px;
+}
+.ii1:hover{
+    transform: scale(1.2);
+}
+.ii2{
+    width: 400px;
+    height: 400px;
+}
+.ii2:hover{
+    transform: scale(1.2);
+}
+.ii3{
+    width: 400px;
+    height: 400px;
+}
+.ii3:hover{
+    transform: scale(1.2);
+}
+.ii4{
+    width: 400px;
+    height: 400px;
+}
+.ii4:hover{
+    transform: scale(1.5);
+}
+.good{
+    text-align:center;
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.cen{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.cen1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.cen2{
+    position:absolute;
+    top: 50%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
+.can {
+    position: relative;
+    text-align:right;
+    color: white;
+  } 
+.oop{
+      width: 900px;
+      height: 600px;
+      position: relative;
+}
+.buut{
+    color:rgb(187, 255, 0);
+}
+.shoes{
+    font-family: 'Bangers', cursive;
+}
+
+.tt {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+
+  .yy {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+  }
+  
+  .yy img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+  
+
+  @media screen and (max-width: 800px) {
+    .yy {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .yy {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  .yy:hover{
+      opacity: 0.5;
+  }
+.oop1{
+    width: 900px;
+    height: 500px;
+    position: relative;
+
+  }
+  .car{
+     
+      height: 700px;
+  }
+
+  .ii1e{
+    width: 400px;
+    height: 400px;
+    }
+    .ii1e:hover{
+        filter:invert()
+    }
+    .ii2e{
+        width: 400px;
+        height: 400px;
+    }
+    .ii2e:hover{
+        filter:invert()
+    }
+    .ii3e{
+        width: 400px;
+        height: 400px;
+    }
+    .ii3e:hover{
+        filter:invert()
+    }
+    .ii4e{
+        width: 400px;
+        height: 400px;
+    }
+    .ii4e:hover{
+        /* opacity:0.5; */
+        filter:invert()
+    }
+
+.pop:hover{
+    opacity:0.5;
+}
+.china1{
+    width: 759px;
+    position: relative;
+
+}
+.china2{
+    width:500px ;
+    position: relative;
+}
+.chin{
+    width:720px;
+    position: relative;
+}
+.chi{
+    width:600px;
+    position: relative;
+}
+.chi:hover {
+    content: url(./images/------.jpg);
+}
+.chin:hover {
+    content: url(./images/right.jpg);
+    width:720px;  
+}
+.cenp{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cen2p{
+    position:absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.head6{
+    height: 60px;
+}
+.f{
+    text-align: center;
+}
+.all:hover{
+    transform: scale(1.2)
+}
+.ok{
+    
+    color: black;
+}
