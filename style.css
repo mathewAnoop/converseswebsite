@@ -1,14 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Dokdo&family=Raleway+Dots&family=Smooch&display=swap');
-
+body{
+    width: 99vw;
+}
 .vvv{
     position: sticky;
 }
 .im1{
-    width: 490px;
+    width: 436px;
 }
 .im2{
-    width: 490px;
+    width: 430px;
    
 }
 .im1:hover{
@@ -27,32 +29,32 @@
     
 }
 .ii1{
-width: 400px;
-height: 400px;
+width: 300px;
+height: 300px;
 }
 .ii1:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .ii2{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }
 .ii2:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .ii3{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }
 .ii3:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .ii4{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }
 .ii4:hover{
-    transform: scale(1.5);
+    transform: scale(1.1);
 }
 .good{
     text-align:center;
@@ -147,29 +149,29 @@ height: 400px;
   }
 
   .ii1e{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     }
     .ii1e:hover{
         filter:invert()
     }
     .ii2e{
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
     }
     .ii2e:hover{
         filter:invert()
     }
     .ii3e{
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
     }
     .ii3e:hover{
         filter:invert()
     }
     .ii4e{
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
     }
     .ii4e:hover{
         /* opacity:0.5; */
@@ -223,7 +225,7 @@ height: 400px;
     text-align: center;
 }
 .all:hover{
-    transform: scale(1.2)
+    transform: scale(1.1)
 }
 .ok{
     
