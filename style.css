@@ -7,7 +7,7 @@ body{
     position: sticky;
 }
 .im1{
-    width: 436px;
+    width: 430px;
 }
 .im2{
     width: 430px;
@@ -230,4 +230,9 @@ height: 300px;
 .ok{
     
     color: black;
+}
+.cano {
+    position: relative;
+    text-align:center;
+    color: white;
 }
